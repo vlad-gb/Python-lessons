@@ -1,4 +1,0 @@
-Informatics:   100(l)   50(p)   20(lab)
-Physics:   30(l)   —   10(lab)
-Gym:   —   30(p)   —
-
